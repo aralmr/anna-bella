@@ -1,0 +1,67 @@
+body {
+       background: #d2d2c1
+                url('img/fundo.png')
+                repeat
+                scroll
+                left;
+        font-family:'lucida sans', sans-serif;
+        
+                
+}
+
+#menu {
+    background-color: #c5c5b2;
+    color: white;
+    padding: 20px;
+}
+
+#conteudo {
+    background: #e8e8d9;
+    padding:10px;
+}
+
+.imagem {
+    width:47vw;
+}
+
+
+a {
+    font-family: "Montserrat", sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    color: #4b566a;
+    padding: 15px 10px;
+    margin-left: 5px;
+    text-decoration: none;
+}
+
+h1 {
+    color: #828271;
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    font-size:20px;
+    padding:5px 5px 5px 10px;
+    
+}
+
+#principal {
+    background: #e5e4d4;
+    width:900px;
+}
+
+p {
+    font-family:"Montserrat", sans-serif;
+    font-size:14px;
+    font-weight:normal;
+    padding-left:10px;
+}
+
+#rodape {
+    font-family:"Montserrat", sans-serif;
+    background-color: #bdbdab;
+    color: black;
+    padding-top: 5px;
+    padding-bottom: 1px;
+    text-align: center;
+}
+
